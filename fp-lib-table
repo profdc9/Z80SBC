@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name DSUB)(type KiCad)(uri "$(KIPRJMOD)/DSUB.pretty")(options "")(descr ""))
+)

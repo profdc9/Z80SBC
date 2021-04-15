@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP MAX232_ALT
+D Dual RS232 driver/receiver, 5V supply, 120kb/s, 0C-70C
+K rs232 uart transceiver line-driver
+F http://www.ti.com/lit/ds/symlink/max232.pdf
+$ENDCMP
+#
+#End Doc Library
