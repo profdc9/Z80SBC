@@ -1,3 +1,4 @@
 (fp_lib_table
   (lib (name DSUB)(type KiCad)(uri "$(KIPRJMOD)/DSUB.pretty")(options "")(descr ""))
+  (lib (name Z80)(type KiCad)(uri "$(KIPRJMOD)/Z80.pretty")(options "")(descr ""))
 )
