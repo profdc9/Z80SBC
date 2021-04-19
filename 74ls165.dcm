@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 74LS165
+D Shift Register 8 bits, parallel load
+K TTL SR SR8
+$ENDCMP
+#
+#End Doc Library
