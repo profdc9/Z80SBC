@@ -1,4 +1,4 @@
-update=4/18/2021 11:37:35 PM
+update=4/20/2021 8:22:44 AM
 version=1
 last_client=kicad
 [pcbnew]
@@ -65,6 +65,7 @@ LibName33=Zilog_Z80_Peripherals
 LibName34=max232_alt
 LibName35=microsd_spi_cd
 LibName36=74ls165
+LibName37=mini-din_6pins_ver4
 [schematic_editor]
 version=1
 PageLayoutDescrFile=
