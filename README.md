@@ -16,4 +16,6 @@ http://xepb.org/dtz/sgsbcsd.html
 
 The SPI peripheral will hopefully allow other hardware to be easily added such as an ethernet interface (Wiznet or enc28j60) for TCP/IP, a SPI LCD for display, etc.  JP2 selects the clockspeed of the SPI, either 1/2 of 7.3278 MHz (slow clock) or 16 MHz (fast clock).
 
+![PCBphoto](z80pic.jpg)
+
 ![PCB](Z80SBC.png)
