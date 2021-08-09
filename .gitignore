@@ -1,6 +1,5 @@
 *.o
 *.a
-*.zip
 Ignore/
 
 # Temporary files
